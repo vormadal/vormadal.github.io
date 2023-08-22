@@ -29,7 +29,7 @@ permalink: pretty
 
 # Build settings
 markdown: GFM # kramdown
-theme: just-the-docs
+remote_theme: just-the-docs/just-the-docs
 #https://github.com/sighingnow/jekyll-gitbook
 syntax_highlighter_style: colorful
 toc:
